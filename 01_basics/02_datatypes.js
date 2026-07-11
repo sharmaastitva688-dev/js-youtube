@@ -27,3 +27,7 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+console.log(typeof isLoggedIn);
+console.log(typeof age);
+console.log(typeof name);
+console.log(typeof state)
